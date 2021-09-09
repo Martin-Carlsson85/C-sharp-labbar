@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marti\\OneDrive\\Skrivbord\\Programmering\\c#\\Labbar\\Kassakvitto\\Kassakvitto.csproj",
+      "projectUniqueName": "C:\\Users\\marti\\OneDrive\\Skrivbord\\Programmering\\C#\\C-sharp-labbar\\Kassakvitto\\Kassakvitto.csproj",
       "projectName": "Kassakvitto",
-      "projectPath": "C:\\Users\\marti\\OneDrive\\Skrivbord\\Programmering\\c#\\Labbar\\Kassakvitto\\Kassakvitto.csproj",
+      "projectPath": "C:\\Users\\marti\\OneDrive\\Skrivbord\\Programmering\\C#\\C-sharp-labbar\\Kassakvitto\\Kassakvitto.csproj",
       "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marti\\OneDrive\\Skrivbord\\Programmering\\c#\\Labbar\\Kassakvitto\\obj\\",
+      "outputPath": "C:\\Users\\marti\\OneDrive\\Skrivbord\\Programmering\\C#\\C-sharp-labbar\\Kassakvitto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",

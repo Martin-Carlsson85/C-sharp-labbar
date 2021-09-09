@@ -1,0 +1,14 @@
+C:\Users\marti\OneDrive\Skrivbord\Programmering\C#\C-sharp-labbar\Kassakvitto\obj\Debug\netcoreapp3.1\Kassakvitto.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Skrivbord\Programmering\C#\C-sharp-labbar\Kassakvitto\obj\Debug\netcoreapp3.1\Kassakvitto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Skrivbord\Programmering\C#\C-sharp-labbar\Kassakvitto\obj\Debug\netcoreapp3.1\Kassakvitto.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Skrivbord\Programmering\C#\C-sharp-labbar\Kassakvitto\obj\Debug\netcoreapp3.1\Kassakvitto.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Skrivbord\Programmering\C#\C-sharp-labbar\Kassakvitto\obj\Debug\netcoreapp3.1\Kassakvitto.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Skrivbord\Programmering\C#\C-sharp-labbar\Kassakvitto\bin\Debug\netcoreapp3.1\Kassakvitto.exe
+C:\Users\marti\OneDrive\Skrivbord\Programmering\C#\C-sharp-labbar\Kassakvitto\bin\Debug\netcoreapp3.1\Kassakvitto.deps.json
+C:\Users\marti\OneDrive\Skrivbord\Programmering\C#\C-sharp-labbar\Kassakvitto\bin\Debug\netcoreapp3.1\Kassakvitto.runtimeconfig.json
+C:\Users\marti\OneDrive\Skrivbord\Programmering\C#\C-sharp-labbar\Kassakvitto\bin\Debug\netcoreapp3.1\Kassakvitto.runtimeconfig.dev.json
+C:\Users\marti\OneDrive\Skrivbord\Programmering\C#\C-sharp-labbar\Kassakvitto\bin\Debug\netcoreapp3.1\Kassakvitto.dll
+C:\Users\marti\OneDrive\Skrivbord\Programmering\C#\C-sharp-labbar\Kassakvitto\bin\Debug\netcoreapp3.1\Kassakvitto.pdb
+C:\Users\marti\OneDrive\Skrivbord\Programmering\C#\C-sharp-labbar\Kassakvitto\obj\Debug\netcoreapp3.1\Kassakvitto.dll
+C:\Users\marti\OneDrive\Skrivbord\Programmering\C#\C-sharp-labbar\Kassakvitto\obj\Debug\netcoreapp3.1\Kassakvitto.pdb
+C:\Users\marti\OneDrive\Skrivbord\Programmering\C#\C-sharp-labbar\Kassakvitto\obj\Debug\netcoreapp3.1\Kassakvitto.genruntimeconfig.cache
