@@ -6,7 +6,7 @@ namespace Kassakvitto
     {
         static void Main(string[] args)
         {
-            double totalSum;
+            double totalSum = 0;
             int sum = 0;
             int sumAfterRound = 0;
             double earRounding = 0;
@@ -37,7 +37,6 @@ namespace Kassakvitto
                     Console.Write("Ange erhållet belopp från kund: ");
                     sum = int.Parse(Console.ReadLine());
                     break;
-                    
                 }
                 catch
                 {
@@ -59,7 +58,6 @@ namespace Kassakvitto
                     {
                         break;
                     }
-
                 }
 
                 catch
@@ -71,13 +69,8 @@ namespace Kassakvitto
                 }
             }
 
-            
-
-            
             earRounding = sumAfterRound - totalSum;
             change = sum - Convert.ToInt32(totalSum);
-            //Console.WriteLine(totalSum - sumAfterRound);
-            //Console.WriteLine(change);
 
             Console.WriteLine("\nKVITTO");
             Console.WriteLine("---------------------");
