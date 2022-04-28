@@ -1,0 +1,16 @@
+C:\Users\marti\OneDrive\Dokument\ASP.NET\C#\C-sharp-labbar\Växelpengar\Växelpengar\bin\Debug\net5.0\Växelpengar.exe
+C:\Users\marti\OneDrive\Dokument\ASP.NET\C#\C-sharp-labbar\Växelpengar\Växelpengar\bin\Debug\net5.0\Växelpengar.deps.json
+C:\Users\marti\OneDrive\Dokument\ASP.NET\C#\C-sharp-labbar\Växelpengar\Växelpengar\bin\Debug\net5.0\Växelpengar.runtimeconfig.json
+C:\Users\marti\OneDrive\Dokument\ASP.NET\C#\C-sharp-labbar\Växelpengar\Växelpengar\bin\Debug\net5.0\Växelpengar.runtimeconfig.dev.json
+C:\Users\marti\OneDrive\Dokument\ASP.NET\C#\C-sharp-labbar\Växelpengar\Växelpengar\bin\Debug\net5.0\Växelpengar.dll
+C:\Users\marti\OneDrive\Dokument\ASP.NET\C#\C-sharp-labbar\Växelpengar\Växelpengar\bin\Debug\net5.0\ref\Växelpengar.dll
+C:\Users\marti\OneDrive\Dokument\ASP.NET\C#\C-sharp-labbar\Växelpengar\Växelpengar\bin\Debug\net5.0\Växelpengar.pdb
+C:\Users\marti\OneDrive\Dokument\ASP.NET\C#\C-sharp-labbar\Växelpengar\Växelpengar\obj\Debug\net5.0\Växelpengar.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Dokument\ASP.NET\C#\C-sharp-labbar\Växelpengar\Växelpengar\obj\Debug\net5.0\Växelpengar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Dokument\ASP.NET\C#\C-sharp-labbar\Växelpengar\Växelpengar\obj\Debug\net5.0\Växelpengar.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Dokument\ASP.NET\C#\C-sharp-labbar\Växelpengar\Växelpengar\obj\Debug\net5.0\Växelpengar.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Dokument\ASP.NET\C#\C-sharp-labbar\Växelpengar\Växelpengar\obj\Debug\net5.0\Växelpengar.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Dokument\ASP.NET\C#\C-sharp-labbar\Växelpengar\Växelpengar\obj\Debug\net5.0\Växelpengar.dll
+C:\Users\marti\OneDrive\Dokument\ASP.NET\C#\C-sharp-labbar\Växelpengar\Växelpengar\obj\Debug\net5.0\ref\Växelpengar.dll
+C:\Users\marti\OneDrive\Dokument\ASP.NET\C#\C-sharp-labbar\Växelpengar\Växelpengar\obj\Debug\net5.0\Växelpengar.pdb
+C:\Users\marti\OneDrive\Dokument\ASP.NET\C#\C-sharp-labbar\Växelpengar\Växelpengar\obj\Debug\net5.0\Växelpengar.genruntimeconfig.cache
